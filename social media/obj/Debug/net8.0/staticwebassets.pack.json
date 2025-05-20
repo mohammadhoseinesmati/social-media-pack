@@ -1,0 +1,381 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\programing\\social media\\social media\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\social media.bundle.scp.css",
+      "PackagePath": "staticwebassets\\social media.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\.gitignore",
+      "PackagePath": "staticwebassets\\.gitignore"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\css\\tailwind.css",
+      "PackagePath": "staticwebassets\\css\\tailwind.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\030b4d93-bcef-46ca-a8ab-39afb1bc0588.jpg",
+      "PackagePath": "staticwebassets\\images\\030b4d93-bcef-46ca-a8ab-39afb1bc0588.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\3673bc5f-2445-4af1-ac65-63c4659df342.png",
+      "PackagePath": "staticwebassets\\images\\3673bc5f-2445-4af1-ac65-63c4659df342.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\41c1fc0e-9ac7-49b9-b771-00f6490419db.jpg",
+      "PackagePath": "staticwebassets\\images\\41c1fc0e-9ac7-49b9-b771-00f6490419db.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\570371f4-334d-4ba4-a347-dc2ea82af843.jpg",
+      "PackagePath": "staticwebassets\\images\\570371f4-334d-4ba4-a347-dc2ea82af843.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\6281242b-0e5e-4a7d-8943-41eb28ab7bb1.jpg",
+      "PackagePath": "staticwebassets\\images\\6281242b-0e5e-4a7d-8943-41eb28ab7bb1.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\7be82fd5-e706-41bb-9a95-c42035fe80ad.jpg",
+      "PackagePath": "staticwebassets\\images\\7be82fd5-e706-41bb-9a95-c42035fe80ad.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\9530b3c4-41eb-420b-acd3-a34cce0fccaa.jpg",
+      "PackagePath": "staticwebassets\\images\\9530b3c4-41eb-420b-acd3-a34cce0fccaa.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\a463e9e1-a4ce-41fa-9e4a-d087e1ffcdca.jpg",
+      "PackagePath": "staticwebassets\\images\\a463e9e1-a4ce-41fa-9e4a-d087e1ffcdca.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\avatar\\user.png",
+      "PackagePath": "staticwebassets\\images\\avatar\\user.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\ce172f52-1b03-43bb-89b5-8cf86fbcb93b.jpg",
+      "PackagePath": "staticwebassets\\images\\ce172f52-1b03-43bb-89b5-8cf86fbcb93b.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\df51542b-2576-42a1-9f34-d58ef3c2533b.jpg",
+      "PackagePath": "staticwebassets\\images\\df51542b-2576-42a1-9f34-d58ef3c2533b.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\e2a82046-1dfa-4126-8d35-ce600fd882b1.jpg",
+      "PackagePath": "staticwebassets\\images\\e2a82046-1dfa-4126-8d35-ce600fd882b1.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\ee5d2359-d067-44cd-afdb-669775986903.jpg",
+      "PackagePath": "staticwebassets\\images\\ee5d2359-d067-44cd-afdb-669775986903.jpg"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\icons\\group-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\group-2.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\icons\\home.png",
+      "PackagePath": "staticwebassets\\images\\icons\\home.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\icons\\page.png",
+      "PackagePath": "staticwebassets\\images\\icons\\page.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\icons\\video.png",
+      "PackagePath": "staticwebassets\\images\\icons\\video.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\js\\simplebar.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\js\\uikit.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\syntax-highlighter\\scripts\\shBrushJScript.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushJScript.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\syntax-highlighter\\scripts\\shBrushXml.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shBrushXml.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\syntax-highlighter\\scripts\\shCore.js",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\scripts\\shCore.js"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\syntax-highlighter\\styles\\shCore.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCore.css"
+    },
+    {
+      "Id": "D:\\programing\\social media\\social media\\wwwroot\\syntax-highlighter\\styles\\shCoreMidnight.css",
+      "PackagePath": "staticwebassets\\syntax-highlighter\\styles\\shCoreMidnight.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.social media.props",
+      "PackagePath": "build\\social media.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.social media.props",
+      "PackagePath": "buildMultiTargeting\\social media.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.social media.props",
+      "PackagePath": "buildTransitive\\social media.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.social media.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using social_media.Data;
 
@@ -11,9 +12,11 @@ using social_media.Data;
 namespace social_media.Migrations
 {
     [DbContext(typeof(AppDBContext))]
-    partial class AppDBContextModelSnapshot : ModelSnapshot
+    [Migration("20250521091642_id")]
+    partial class id
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -198,10 +201,6 @@ namespace social_media.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ReciverId");
-
-                    b.HasIndex("SenderId");
 
                     b.ToTable("ChatMessages");
                 });
@@ -650,25 +649,6 @@ namespace social_media.Migrations
                     b.Navigation("Post");
 
                     b.Navigation("User");
-                });
-
-            modelBuilder.Entity("social_media.Data.Models.ChatMessage", b =>
-                {
-                    b.HasOne("social_media.Data.Models.User", "Reciver")
-                        .WithMany()
-                        .HasForeignKey("ReciverId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.HasOne("social_media.Data.Models.User", "Sender")
-                        .WithMany()
-                        .HasForeignKey("SenderId")
-                        .OnDelete(DeleteBehavior.Restrict)
-                        .IsRequired();
-
-                    b.Navigation("Reciver");
-
-                    b.Navigation("Sender");
                 });
 
             modelBuilder.Entity("social_media.Data.Models.Comment", b =>

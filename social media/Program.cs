@@ -31,6 +31,7 @@ builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IFriendsServices, FriendsService>();
 builder.Services.AddScoped<IAdminService, AdminService>();
 builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IChatMessageService, ChatMessageService>();
 
 builder.Services.AddIdentity<User,IdentityRole<int>>(options =>
 {
@@ -149,5 +150,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapHub<NotificationHub>("/notificationHub");
+app.MapHub<ChatHub>("/chathub");
+
 
 app.Run();

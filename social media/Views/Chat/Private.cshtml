@@ -1,0 +1,59 @@
+﻿@model List<ChatMessage>
+@{
+    ViewData["Title"] = "Private Chat";
+    var currentUserId = User.FindFirst(System.Security.Claims.ClaimTypes.NameIdentifier)?.Value;
+    var receiverId = ViewBag.UserGoal ?? 0;
+}
+<div class="mt-20" style="margin-left: 280px; ">
+    <h2>Private Chat</h2>
+
+    <div id="chat-box" style="height:300px; overflow-y:auto; border:1px solid #ccc; padding:10px; margin-bottom:10px;">
+        @foreach (var msg in Model)
+        {
+            <div>
+                <strong>@(msg.SenderId == int.Parse(currentUserId) ? "You" : "User " + msg.SenderId):</strong>
+                @msg.Message
+            </div>
+        }
+    </div>
+
+    <input type="text" id="messageInput" class="form-control" placeholder="Type your message..." />
+    <button onclick="sendMessage()" class="btn btn-primary mt-2">Send</button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+<script>
+     const connection = new signalR.HubConnectionBuilder()
+         .withUrl("/chathub")
+         .build();
+
+     const chatBox = document.getElementById("chat-box");
+     const input = document.getElementById("messageInput");
+     const toUserId = '@receiverId';
+
+    connection.on("ReceiveMessage", function (senderName, message) {
+        const msgDiv = document.createElement("div");
+        msgDiv.innerHTML = `<strong>${senderName}:</strong> ${message}`;
+        chatBox.appendChild(msgDiv);
+        chatBox.scrollTop = chatBox.scrollHeight;
+    });
+
+     connection.start().catch(err => console.error(err));
+
+    function sendMessage() {
+        const message = input.value.trim();
+        if (!message) return;
+
+        connection.invoke("SendPrivateMessage", toUserId, message)
+            .then(() => {
+                // نمایش پیام در لحظه
+                const msgDiv = document.createElement("div");
+                msgDiv.innerHTML = `<strong>You:</strong> ${message}`;
+                chatBox.appendChild(msgDiv);
+                chatBox.scrollTop = chatBox.scrollHeight;
+
+                input.value = "";
+            })
+            .catch(err => console.error(err));
+    }
+</script>

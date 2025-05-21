@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programing\\1\\social media\\social media\\social media.csproj": {}
+    "D:\\programing\\social media\\social media\\social media.csproj": {}
   },
   "projects": {
-    "D:\\programing\\1\\social media\\social media\\social media.csproj": {
+    "D:\\programing\\social media\\social media\\social media.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programing\\1\\social media\\social media\\social media.csproj",
+        "projectUniqueName": "D:\\programing\\social media\\social media\\social media.csproj",
         "projectName": "social media",
-        "projectPath": "D:\\programing\\1\\social media\\social media\\social media.csproj",
+        "projectPath": "D:\\programing\\social media\\social media\\social media.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\programing\\1\\social media\\social media\\obj\\",
+        "outputPath": "D:\\programing\\social media\\social media\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

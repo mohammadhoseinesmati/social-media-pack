@@ -1,0 +1,26 @@
+﻿@model List<ChatContactDto>
+
+
+
+<div class="chat-contacts mt-20" style="margin-left: 280px;">
+    <h3>Contacts</h3>
+    @if (Model == null || !Model.Any())
+    {
+        <p>No one messaged you</p>
+    }
+    else
+    {
+        foreach (var contact in Model)
+        {
+            <a asp-controller="Chat" asp-action="Private" asp-route-Id="@contact.UserId">
+                <div class="chat-contact-item" style="padding:10px; border-bottom:1px solid #ccc; cursor:pointer;">
+                    <strong>@contact.UserName</strong><br />
+                    <small style="color: gray;">
+                        @contact.LastTimeMessage.ToLocalTime().ToString("yyyy/MM/dd HH:mm")
+                    </small>
+                    <p style="margin:5px 0;">@contact.LastMessage</p>
+                </div>
+            </a>
+        }
+    }
+</div>

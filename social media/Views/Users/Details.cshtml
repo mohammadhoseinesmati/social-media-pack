@@ -20,7 +20,7 @@
                     <p class="mt-2 ">@Model.User.UserName</p>
                 </div>
                 <div  class="text-black">
-                    <a asp-controller="Chat" asp-action="SendMessage" asp-route-id="@Model.User.Id">
+                    <a asp-controller="Chat" asp-action="Private" asp-route-id="@Model.User.Id">
                         <p class="mt-2 ">message</p>
                     </a>
                 </div>

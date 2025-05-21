@@ -25,6 +25,7 @@ namespace social_media.Data
         public DbSet<RefreshToken> RefreshTokens { get; set; }
 
         public DbSet<Report> Reports { get; set; }
+        public DbSet<ChatMessage> ChatMessages { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -149,6 +150,17 @@ namespace social_media.Data
 
             //modelBuilder.Entity<User>()
             //    .HasIndex(p => p.Email);
+            modelBuilder.Entity<ChatMessage>()
+                .HasOne(p => p.Sender)
+                .WithMany()
+                .HasForeignKey(p => p.SenderId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<ChatMessage>()
+                .HasOne(p => p.Reciver)
+                .WithMany()
+                .HasForeignKey(p => p.ReciverId)
+                .OnDelete(DeleteBehavior.Restrict);
 
         }
     }
